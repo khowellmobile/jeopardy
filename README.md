@@ -1,4 +1,4 @@
-# Jeopardy Webapp
+# Jeopardy Webapp (WIP)
 
 This project is not complete. The goal is to create a jeopardy like game where the players use their phones for buzzing in and there is a single "game session" that controls point tracking and the question board.
 
